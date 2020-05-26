@@ -1,0 +1,6 @@
+<?php
+
+//Nada
+echo "Nothing";
+
+?>
